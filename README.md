@@ -35,4 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # loml
-You can check the website at (https://loml-two.vercel.app" and type "Marlice" for the name 
+You can check the website at ("https://loml-two.vercel.app") and type "Marlice" for the name 
